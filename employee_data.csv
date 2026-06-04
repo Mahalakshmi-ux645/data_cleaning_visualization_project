@@ -1,0 +1,17 @@
+Employee_ID,Name,Age,Department,Salary,Experience
+101,Ravi,25,IT,35000,2
+102,Priya,28,HR,40000,4
+103,Kiran,32,Finance,50000,7
+104,Anjali,26,IT,38000,3
+105,Rahul,35,Marketing,55000,10
+106,Sneha,29,HR,42000,5
+107,Vikram,31,Finance,48000,6
+108,Divya,27,IT,39000,4
+109,Arjun,34,Marketing,53000,8
+110,Pooja,30,HR,45000,6
+111,Ramesh,,IT,37000,3
+112,Meena,28,HR,,4
+113,Karthik,32,Finance,50000,7
+113,Karthik,32,Finance,50000,7
+114,Nisha,29,Marketing,52000,5
+115,Akhil,45,IT,120000,20
